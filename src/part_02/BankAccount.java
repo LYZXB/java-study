@@ -27,7 +27,6 @@ public class BankAccount {
         }
         balance = balance - amount;
         System.out.printf("%s你好，%s支付%f元成功！%n",name, reason, amount);
-        return;
     }
 
     public double checkBalance(){
