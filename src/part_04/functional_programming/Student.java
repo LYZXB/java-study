@@ -1,4 +1,4 @@
-package part_04;
+package part_04.functional_programming;
 
 public class Student{
     private String name;

@@ -1,4 +1,4 @@
-package part_04;
+package part_04.generic;
 
 import java.lang.reflect.Array;
 import java.util.function.Function;

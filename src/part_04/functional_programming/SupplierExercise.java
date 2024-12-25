@@ -1,4 +1,4 @@
-package part_04.functional_programming_exercise;
+package part_04.functional_programming;
 
 import java.util.function.Supplier;
 

@@ -1,4 +1,4 @@
-package part_04;
+package part_04.generic;
 
 public class DataContainerMain {
     public static void main(String[] args) {

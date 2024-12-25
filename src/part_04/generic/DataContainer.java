@@ -1,4 +1,4 @@
-package part_04;
+package part_04.generic;
 
 import java.util.ArrayList;
 import java.util.List;
